@@ -1,6 +1,6 @@
 # Surfs_Up
 
-## The analysis should contain the following:
+## Analysis
 
 ### Overview of the analysis:
 We chose June and December as example months for the overall weather(temperature and percipitation) of Oahu, Hawaii to determine if it would be a good place to place a surf and icecream shop! Decent, as in warm weather and few rainy days was ideal to determine if this would be a prime place to set up this kind of shop, since you want it to be warm so people get icecream and you do not want many rainy days, since that is not great for surfing.
@@ -26,7 +26,7 @@ Fig 2. December Dataframe
 
 In summary, given the general warm temperature and overall lack of rain, or at least heavy downpours often, it would be a great place to open a shop for both icecream and surfing.
 
-**As an additional analysis for December, I thought it would be fun to look at the overall weather for Christmas Day over the years: 
+**As an additional analysis for December, I thought it would be fun to look at the overall weather for Christmas Day over the years:**
 
 ![Christmas_time_df](https://user-images.githubusercontent.com/84158312/131235280-ebcde2cf-5dc0-42c2-aea6-9d15cfe60b66.png)
 
