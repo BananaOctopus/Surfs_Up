@@ -8,15 +8,25 @@ We chose June and December as example months for the overall weather(temperature
 ### Results: 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
+Considering June:
+- Looking at Fig 1. the average tempurature in June is 74.9 degrees Fm and an average precipitation of 0.14 inches
+- Considering in Fig 1, that within the 75th percentil, the precipitation rate is still below average, seems to mean it does not rain often, or have big downpours often in June
+
+Considering December:
+- December precipitation overall is even lower than June, 
+- Also a bit cooler than June but only by a few degrees (Fig. 2) But still much warmer than the rest of the US with a min of 56 degrees F, and a max of 83 degrees F.
 
 ![June_df](https://user-images.githubusercontent.com/84158312/131235325-1af86713-eec3-4609-a156-9633b25005e7.png)
+Fig 1. June Dataframe 
 
 ![December_df](https://user-images.githubusercontent.com/84158312/131235328-5c216aaf-51a3-41ba-a3cb-8de3555bf066.png)
-
+Fig 2. December Dataframe
 
 ### Summary: 
 
-**As an additional analysis for December, I thought it would be fun to look at the overall weather for Christmas Day: 
+In summary, given the general warm temperature and overall lack of rain, or at least heavy downpours often, it would be a great place to open a shop for both icecream and surfing.
+
+**As an additional analysis for December, I thought it would be fun to look at the overall weather for Christmas Day over the years: 
 
 ![Christmas_time_df](https://user-images.githubusercontent.com/84158312/131235280-ebcde2cf-5dc0-42c2-aea6-9d15cfe60b66.png)
 
